@@ -68,13 +68,13 @@ function entregarDinero()
 		}
 		else
 		{
-			resultado.innerHTML += "No tengo los billetes para esa suma, intenta otro valor <hr />";
+			resultado.innerHTML += "No hay billetes para esa suma, intenta otro valor <hr />";
 		}
 
 	}
 	else
 	{
-		resultado.innerHTML += "Soy un cajero pobre y no tengo dinero :( <hr />";
+		resultado.innerHTML += "Fondos insuficientes :( <hr />";
 	}
 }
 
