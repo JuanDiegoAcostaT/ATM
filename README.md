@@ -6,4 +6,4 @@ ATM that is capable of extracting money and subtracting money to give value to t
 - Css3
 
 
-<img src="https://github.com/JuanDiegoAcostaT/ATM/blob/master/atmbrowser.png" />
+<img src="https://github.com/JuanDiegoAcostaT/ATM/blob/master/images/atmbrowser.png" />
